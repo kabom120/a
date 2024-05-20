@@ -26,6 +26,9 @@ public class GameManage extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
+	
+	string ciao;
+	
     public GameManage() {
         super();
         // TODO Auto-generated constructor stub
